@@ -2,6 +2,7 @@
 
 ## 👤 Team Member
 - Aayansh Vashisht
+- Roll No : 2401730247
 
 ## 📘 Project Description
 **Syntaxis** is a powerful, open-source chatbot platform inspired by LibreChat. It allows seamless integration with various AI language models including OpenAI's GPT, Google's Gemini, Anthropic's Claude, and more. The project enables customizable AI chat interfaces for different use cases, such as education, productivity, and customer support.
